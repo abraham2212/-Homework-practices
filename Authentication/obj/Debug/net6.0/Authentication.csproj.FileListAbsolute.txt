@@ -1,0 +1,5 @@
+C:\Users\Hp Elitebook\Desktop\struct,const & enum\struct enum all\methods\Authentication\Authentication\obj\Debug\net6.0\Authentication.csproj.AssemblyReference.cache
+C:\Users\Hp Elitebook\Desktop\struct,const & enum\struct enum all\methods\Authentication\Authentication\obj\Debug\net6.0\Authentication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp Elitebook\Desktop\struct,const & enum\struct enum all\methods\Authentication\Authentication\obj\Debug\net6.0\Authentication.AssemblyInfoInputs.cache
+C:\Users\Hp Elitebook\Desktop\struct,const & enum\struct enum all\methods\Authentication\Authentication\obj\Debug\net6.0\Authentication.AssemblyInfo.cs
+C:\Users\Hp Elitebook\Desktop\struct,const & enum\struct enum all\methods\Authentication\Authentication\obj\Debug\net6.0\Authentication.csproj.CoreCompileInputs.cache
